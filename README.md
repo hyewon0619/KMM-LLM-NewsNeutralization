@@ -89,6 +89,7 @@
 - Sentiment: Negative (99.7%)  
 - Bias: Left (87.4%)
 
+
 #### **Neutralized Output**
 > The politicians passed another law to affect hardworking citizens.
 

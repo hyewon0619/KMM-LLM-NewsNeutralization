@@ -1,3 +1,8 @@
+
+**🏆 이 논문은 한국멀티미디어학회에서 우수논문상을 수상했습니다.**
+
+<br>
+
 # 📰 Neutral News Rewriting Pipeline  
 **Integrated Truthfulness, Sentiment, and Political Bias Analysis for Neutral Headline Generation**
 
@@ -136,6 +141,7 @@
 - 실시간 뉴스 스트림 중립화  
 - 사용자 편향 프로파일 기반 맞춤 중립화  
 
+
 ---
 
 ## 📚 References  
@@ -143,3 +149,5 @@
 1. Fake News Detection Using Document Bias and Sentiment Analysis, HCI 2023  
 2. FakeNewsNet Dataset  
 3. LIAR Dataset (Fake News Benchmark)  
+
+<img width="2000" height="2831" alt="Image" src="https://github.com/user-attachments/assets/bebce2ad-e133-4935-8323-6fd7219a9d94" />

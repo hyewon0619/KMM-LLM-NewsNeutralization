@@ -89,6 +89,8 @@
 - Sentiment: Negative (99.7%)  
 - Bias: Left (87.4%)
 
+<img width="383" height="396" alt="Image" src="https://github.com/user-attachments/assets/db0dd9b7-3510-45f1-97cd-d2c9288645bb" />
+
 
 #### **Neutralized Output**
 > The politicians passed another law to affect hardworking citizens.
@@ -97,6 +99,8 @@
 - Truth: **Truthful (68.0%)**  
 - Sentiment: **Neutral (55.3%)**  
 - Bias: **Near-neutral (53.6%)**
+
+<img width="383" height="396" alt="Image" src="https://github.com/user-attachments/assets/edf47239-5462-448d-94e6-8c53175b9464" />
 
 → 감정적 단어 제거  
 → 공격성 완화  

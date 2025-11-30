@@ -49,7 +49,7 @@
 
 ### **3. Political Bias Detection**
 
-- **Dataset**:Qbias (AllSides 기반 뉴스 데이터) (train 17403 / val 2175 / test 2176 )
+- **Dataset**:Qbias (AllSides 기반 뉴스 데이터) (train 17,403 / val 2,175 / test 2,176 )
 - **Input**: 제목 + 헤딩 + 본문
 - **Model**: DistilBERT  
 - **Performance**: Accuracy **0.63**

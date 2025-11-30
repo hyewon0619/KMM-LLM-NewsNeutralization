@@ -40,7 +40,7 @@
 
 ### **2. Sentiment Analysis**
 
-- **Dataset**: TweetEval Sentiment  
+- **Dataset**: TweetEval Sentiment (train 45,615 / validation 2,000 / test 12,284개)
 - **Models compared**: DeBERTa-v3-base, DistilBERT  
 - **Result**:  
   - **DeBERTa-v3-base** 72% accuracy → **최종 선택**
@@ -49,7 +49,8 @@
 
 ### **3. Political Bias Detection**
 
-- **Input**: 제목 + 헤딩 + 본문  
+- **Dataset**:Qbias (AllSides 기반 뉴스 데이터) (train 17403 / val 2175 / test 2176 )
+- **Input**: 제목 + 헤딩 + 본문
 - **Model**: DistilBERT  
 - **Performance**: Accuracy **0.63**
 
